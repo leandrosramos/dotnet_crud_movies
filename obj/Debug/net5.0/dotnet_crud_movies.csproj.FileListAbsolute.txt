@@ -1,0 +1,16 @@
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.csprojAssemblyReference.cache
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.AssemblyInfoInputs.cache
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.AssemblyInfo.cs
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.csproj.CoreCompileInputs.cache
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\bin\Debug\net5.0\dotnet_crud_movies.exe
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\bin\Debug\net5.0\dotnet_crud_movies.deps.json
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\bin\Debug\net5.0\dotnet_crud_movies.runtimeconfig.json
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\bin\Debug\net5.0\dotnet_crud_movies.runtimeconfig.dev.json
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\bin\Debug\net5.0\dotnet_crud_movies.dll
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\bin\Debug\net5.0\ref\dotnet_crud_movies.dll
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\bin\Debug\net5.0\dotnet_crud_movies.pdb
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.dll
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\ref\dotnet_crud_movies.dll
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.pdb
+C:\Users\leandro.ramos\onedrive\study\dotnet\_code\dotnet_crud_movies\obj\Debug\net5.0\dotnet_crud_movies.genruntimeconfig.cache
